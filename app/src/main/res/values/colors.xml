@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="orangeMuda">#E18B34 </color>
+    <color name="Hijau">#66D88A  </color>
+    <color name="line2">#CD6155     </color>
+    <color name="line1"> #566573     </color>
+    <color name="toolbar"> #4caf50   </color>
+    <color name="Gagal">#b71c1c</color>
+</resources>
